@@ -1,0 +1,10 @@
+.input{
+   font-size:x-large ;
+   margin: 10px 0 ;
+   padding: 8px ;
+   border-color:coral;
+   background-color: hsla(0, 0%, 100%, 0.234);
+   position: relative;
+   color: antiquewhite;
+   border-radius: 2px;
+}
